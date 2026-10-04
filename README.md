@@ -222,14 +222,6 @@ For detailed setup and troubleshooting, see:
 
 AcouForge is also planned for distribution through the **Microsoft Store**.
 
-The Store release will provide an additional installation channel for users
-who prefer Microsoft's application distribution and update experience.
-
-**Microsoft Store availability: Coming soon.**
-
-Once the Store listing is published, this section will be replaced with the
-official Store link.
-
 ---
 
 ## 📦 Installation
