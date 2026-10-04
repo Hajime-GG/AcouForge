@@ -1,0 +1,69 @@
+# ============================================================
+# AcouForge
+# Production Repository
+# ============================================================
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Generated / temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+*.pdb
+*.ilk
+*.nupkg
+
+# Publish output
+publish/
+artifacts/
+dist/
+
+# Installer/build artifacts
+*.msi
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
+*.exe
+
+# Development tooling
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User-specific AcouForge data
+acouforge-settings.json
+settings-debug.log
+
+# Secrets / credentials
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Archives
+*.zip
+*.7z
+*.rar
