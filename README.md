@@ -6,7 +6,7 @@
 
 ### Precision Audio Processing for Windows
 
-Real-time equalization, dynamics, spatial processing, calibration,
+Real-time equalization, dynamics, spatial processing, calibration, channel wise DSP effects
 and audio tools — built into one processing environment.
 
 <br>
@@ -15,19 +15,13 @@ and audio tools — built into one processing environment.
   <strong>⬇ Download AcouForge</strong>
 </a>
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Hajime-GG/AcouForge/releases">
-  View Releases
-</a>
-
 <br><br>
 
 </div>
 
 ---
 
-## The Audio Processing Layer Between Your Apps and Your Ears
+## ✨ The Audio Processing Layer Between Your Apps and Your Ears ✨
 
 **AcouForge** is a real-time Windows audio processing suite designed to give
 you precise control over the sound reaching your listening device.
@@ -104,7 +98,7 @@ system.
 
 ---
 
-## Signal Flow
+## ☄️ Signal Flow
 
 AcouForge is designed to sit between your Windows applications and your
 physical listening device.
@@ -142,28 +136,41 @@ physical listening device.
 
 ## ✨ Screenshots
 
-> Rename your screenshots to the filenames below, or change these paths to
-> match your preferred names.
-
 ### Overview
 
 ![AcouForge Overview](assets/screenshots/01-overview.png)
 
+### Mix
+
+![AcouForge Mix](assets/screenshots/02-mix.png)
+
 ### Equalizer
 
-![AcouForge Equalizer](assets/screenshots/02-equalizer.png)
+![AcouForge Equalizer](assets/screenshots/03-equalizer.png)
 
 ### Dynamics
 
-![AcouForge Dynamics](assets/screenshots/03-dynamics.png)
+![AcouForge Dynamics](assets/screenshots/04-dynamics.png)
 
 ### Spatial Audio
 
-![AcouForge Spatial Audio](assets/screenshots/04-spatial-audio.png)
+![AcouForge Spatial Audio](assets/screenshots/05-spatial-audio.png)
 
 ### Calibration
 
-![AcouForge Calibration](assets/screenshots/05-calibration.png)
+![AcouForge Calibration](assets/screenshots/06-calibration.png)
+
+### Tools
+
+![AcouForge Tools](assets/screenshots/07-tools.png)
+
+### Settings
+
+![AcouForge Settings](assets/screenshots/08-settings.png)
+
+### Virtual Audio
+
+![AcouForge Virtual Audio](assets/screenshots/09-virtual.png)
 
 ---
 
@@ -327,15 +334,3 @@ helped make parts of the AcouForge Virtual Audio architecture possible.
 See [`CREDITS.md`](CREDITS.md) for attribution details.
 
 ---
-
-<div align="center">
-
-### AcouForge
-
-**Precision audio processing for Windows.**
-
-[Download](https://github.com/Hajime-GG/AcouForge/releases/latest)
-&nbsp;•&nbsp;
-[Releases](https://github.com/Hajime-GG/AcouForge/releases)
-
-</div>
