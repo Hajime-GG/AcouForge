@@ -1,6 +1,6 @@
-\<div align="center">
+<div align="center">
 
-\<img src="assets/acouforge-logo.png" width="180" alt="AcouForge">
+<img src="assets/acouforge-logo.png" width="180" alt="AcouForge">
 
 # AcouForge
 
@@ -8,19 +8,19 @@
 
 A real-time audio processing suite for equalization, dynamics, spatial audio, calibration, and more.
 
-\<br>
+<br>
 
-\<a href="[https://github.com/Hajime-GG/AcouForge/releases/latest](https://github.com/Hajime-GG/AcouForge/releases/latest)">
-&#x20; \<strong>Download AcouForge\</strong>
-\</a>
+<a href="https://github.com/Hajime-GG/AcouForge/releases/latest">
+&#x20; <strong>Download AcouForge</strong>
+</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-\<a href="[https://github.com/Hajime-GG/AcouForge/releases](https://github.com/Hajime-GG/AcouForge/releases)">
+<a href="[https://github.com/Hajime-GG/AcouForge/releases](https://github.com/Hajime-GG/AcouForge/releases)">
 &#x20; View Releases
-\</a>
+</a>
 
-\<br>\<br>
+<br><br>
 
-\</div>
+</div>
 
 ---
 
@@ -36,58 +36,58 @@ AcouForge is built for people who want more control over how their audio sounds 
 
 ## Features
 
-\<table>
-\<tr>
-\<td width="50%">
+<table>
+<tr>
+<td width="50%">
 
 ### 🎚️ Equalizer
 
 Shape your sound with precise real-time equalization and detailed control over your audio response.
 
-\</td>
-\<td width="50%">
+</td>
+<td width="50%">
 
 ### 📈 Dynamics
 
 Control the dynamics of your audio with real-time processing designed for flexible playback control.
 
-\</td>
-\</tr>
+</td>
+</tr>
 
-\<tr>
-\<td>
+<tr>
+<td>
 
 ### 🌌 Spatial Audio
 
 Explore spatial processing designed to provide greater control over the presentation and character of your audio.
 
-\</td>
-\<td>
+</td>
+<td>
 
 ### 🎧 Calibration
 
 Calibrate your listening setup and work with measurement data to create a more accurate processing profile.
 
-\</td>
-\</tr>
+</td>
+</tr>
 
-\<tr>
-\<td>
+<tr>
+<td>
 
 ### 🔊 Virtual Audio
 
 Route Windows playback through AcouForge using AcouForge Virtual Audio.
 
-\</td>
-\<td>
+</td>
+<td>
 
 ### 🛠️ Audio Tools
 
 A collection of additional tools for configuring, measuring, and working with your audio system.
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -195,10 +195,10 @@ See [PRIVACY.md](PRIVACY.md) for information about data handling.
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### AcouForge
 
 **Precision audio processing for Windows.**
 
-\</div>
+</div>
